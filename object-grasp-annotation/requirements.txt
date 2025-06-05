@@ -1,0 +1,4 @@
+numpy
+autolab-core
+autolab-perception
+transforms3d
