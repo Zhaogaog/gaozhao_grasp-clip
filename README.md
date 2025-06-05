@@ -1,5 +1,7 @@
 # gaozhao_grasp-clip
 
+环境准备：参考requirements、conda_requirements、pip_requirements.txt文件进行虚拟环境的配置
+
 train文件夹中为训练脚本（对应各种模型）：可使用my_train_add_language_frozen_with_rgb_clip_rn50_frozen_no_resize_batch_size_4脚本进行训练
 
 test文件夹中为相应的测试脚本
