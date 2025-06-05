@@ -1,1 +1,8 @@
 # gaozhao_grasp-clip
+
+train文件夹中为训练脚本（对应各种模型）：可使用my_train_add_language_frozen_with_rgb_clip_rn50_frozen_no_resize_batch_size_4脚本进行训练
+
+test文件夹中为相应的测试脚本
+
+evalaute文件夹中为各种评估用脚本
+
